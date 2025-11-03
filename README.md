@@ -18,10 +18,3 @@ Amante de la tecnología, siempre busco aprender, escuchar y cooperar. Me motiva
 - **Marketing Digital:** SEO, Google Ads & Analytics, publicidad de Facebook e Instagram, producción audiovisual
 
 ---
-
-### Minimalismo digital
-
-Me inspiro en el minimalismo digital: tipografía clara, uso de íconos sencillos y fondos limpios, widgets útiles y estructura tipo Notion; diseño enfocado en lo esencial y funcional.
-
----
-
