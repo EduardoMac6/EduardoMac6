@@ -15,5 +15,3 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
 - Design: Adobe Illustrator, Adobe Photoshop, Figma, Branding, Motion Graphics, 3D Modeling
 - Frontend/Web: HTML, CSS, Sass, Bootstrap, Tailwindcss, Angular, Astro, WordPress
 - Digital Marketing: SEO, Google Ads & Analytics, Facebook and Instagram ads, audiovisual production
-
----
