@@ -1,20 +1,19 @@
-## 👋 Hola, soy Eduardo Mac
+# 👋 Hi, I'm Eduardo Mac
 
-
-**Diseñador Gráfico & Frontend Developer apasionado por la tecnología y la creatividad.**
-
----
-
-### 💡 Sobre mí
-
-Amante de la tecnología, siempre busco aprender, escuchar y cooperar. Me motiva solucionar problemas con diseño y nuevas tecnologías, generando soluciones funcionales y creativas para empresas y proyectos variados.
+**Head of Digital Design and Development at Aura**
 
 ---
 
-### 🛠️ Habilidades principales
+### 💡 About me
 
-- **Diseño:** Adobe Illustrator, Adobe Photoshop, Figma, Branding, Motion Graphics, 3D Modelado
-- **Frontend/Web:** HTML, CSS, Sass, Bootstrap, Tailwindcss, Angular, Astro, WordPress
-- **Marketing Digital:** SEO, Google Ads & Analytics, publicidad de Facebook e Instagram, producción audiovisual
+Passionate about technology and creativity. I love to learn, listen, and cooperate. Motivated to solve problems using design and new technologies, creating functional and creative solutions for different companies and projects.
+
+---
+
+### 🛠️ Main Skills
+
+- Design: Adobe Illustrator, Adobe Photoshop, Figma, Branding, Motion Graphics, 3D Modeling
+- Frontend/Web: HTML, CSS, Sass, Bootstrap, Tailwindcss, Angular, Astro, WordPress
+- Digital Marketing: SEO, Google Ads & Analytics, Facebook and Instagram ads, audiovisual production
 
 ---
