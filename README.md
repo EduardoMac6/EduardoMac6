@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hola, soy Eduardo Mac
 
-<!--
-**EduardoMac6/EduardoMac6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Diseñador Gráfico & Frontend Developer apasionado por la tecnología y la creatividad.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Sobre mí
+
+Amante de la tecnología, siempre busco aprender, escuchar y cooperar. Me motiva solucionar problemas con diseño y nuevas tecnologías, generando soluciones funcionales y creativas para empresas y proyectos variados.
+
+---
+
+### 🛠️ Habilidades principales
+
+- **Diseño:** Adobe Illustrator, Adobe Photoshop, Figma, Branding, Motion Graphics, 3D Modelado
+- **Frontend/Web:** HTML, CSS, Sass, Bootstrap, Tailwindcss, Angular, Astro, WordPress
+- **Marketing Digital:** SEO, Google Ads & Analytics, publicidad de Facebook e Instagram, producción audiovisual
+
+---
+
+### Minimalismo digital
+
+Me inspiro en el minimalismo digital: tipografía clara, uso de íconos sencillos y fondos limpios, widgets útiles y estructura tipo Notion; diseño enfocado en lo esencial y funcional.
+
+---
+
