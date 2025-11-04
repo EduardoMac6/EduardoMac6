@@ -24,5 +24,5 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
   
-  HTML, CSS, Sass, Bootstrap, Tailwindcss, Angular, Astro, WordPress
+  Sass, Tailwindcss, Angular, Astro, WordPress
 - Digital Marketing: SEO, Google Ads & Analytics, Facebook and Instagram ads, audiovisual production
