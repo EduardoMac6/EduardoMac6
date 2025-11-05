@@ -60,15 +60,17 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
 
 - RRSS:
 
-  <a href="https://x.com/Eduardo_Black_6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://threads.net/@eduardo.mac6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Threads&logoColor=white" alt="Threads" />
-  </a>
-  <a href="https://bsky.app/profile/eduardomac.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://discord.com/users/visual.murder" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <p align="left">
+    <a href="https://x.com/Eduardo_Black_6" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" />
+    </a>
+    <a href="https://threads.net/@eduardo.mac6" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Threads&logoColor=white" alt="Threads" />
+    </a>
+    <a href="https://bsky.app/profile/eduardomac.bsky.social" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white" alt="Bluesky" />
+    </a>
+    <a href="https://discord.com/users/visual.murder" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
