@@ -2,13 +2,19 @@
   <img src="assets/images/banner.png" alt="Banner" style="width: 100%; max-width: 100%; height: auto;" />
 </div>
 
-### <img src="assets/icons/bombilla-encendida.svg" alt="Bombilla" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> About me
+<h3 style="display: flex; align-items: center; gap: 10px;">
+  <img src="assets/icons/bombilla-encendida.svg" alt="Bombilla" width="40" height="40" />
+  About me
+</h3>
 
 Passionate about technology and creativity. I love to learn, listen, and cooperate. Motivated to solve problems using design and new technologies, creating functional and creative solutions for different companies and projects.
 
 ---
 
-### <img src="assets/icons/herramientas.svg" alt="Herramientas" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" /> Main Skills
+<h3 style="display: flex; align-items: center; gap: 10px;">
+  <img src="assets/icons/herramientas.svg" alt="Herramientas" width="40" height="40" />
+  Main Skills
+</h3>
 
 - Design:
   
