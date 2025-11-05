@@ -2,13 +2,13 @@
   <img src="assets/images/banner.png" alt="Banner" style="width: 100%; max-width: 100%; height: auto;" />
 </div>
 
-### 💡 About me
+### <img src="assets/icons/bombilla-encendida.svg" alt="Bombilla" width="20" height="20" /> About me
 
 Passionate about technology and creativity. I love to learn, listen, and cooperate. Motivated to solve problems using design and new technologies, creating functional and creative solutions for different companies and projects.
 
 ---
 
-### 🛠️ Main Skills
+### <img src="assets/icons/herramientas.svg" alt="Herramientas" width="20" height="20" /> Main Skills
 
 - Design:
   
