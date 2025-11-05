@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/images/banner.png" alt="Banner" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
+
 # 👋 Hi, I'm Eduardo Mac
 
 **Head of Digital Design and Development at Aura**
