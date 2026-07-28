@@ -79,9 +79,6 @@ Frontend developer and web product lead with a graphic design background — I b
     <a href="https://x.com/Eduardo_Black_6" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X" />
     </a>
-    <a href="https://threads.net/@eduardo.mac6" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=Threads&logoColor=white" alt="Threads" />
-    </a>
     <a href="https://bsky.app/profile/eduardomac.bsky.social" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=Bluesky&logoColor=white" alt="Bluesky" />
     </a>
