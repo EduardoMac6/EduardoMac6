@@ -31,6 +31,7 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 
 - Frameworks, Platforms and Libraries:
   
@@ -49,6 +50,12 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
+
+- AI-Assisted Development:
+
+  ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+  ![v0](https://img.shields.io/badge/v0-%23000000.svg?style=flat&logo=v0&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-%23000000.svg?style=flat&logo=claude&logoColor=white)
    
 
  
