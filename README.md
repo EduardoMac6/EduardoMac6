@@ -20,7 +20,6 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
 - Design:
   
   <p align="left">
-    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe" />
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
@@ -30,8 +29,8 @@ Passionate about technology and creativity. I love to learn, listen, and coopera
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 - Frameworks, Platforms and Libraries:
   
