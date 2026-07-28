@@ -7,7 +7,7 @@
   <h3>About me</h3>
 </div>
 
-Passionate about technology and creativity. I love to learn, listen, and cooperate. Motivated to solve problems using design and new technologies, creating functional and creative solutions for different companies and projects.
+Frontend developer and web product lead with a graphic design background — I bridge UX/UI, growth strategy, and hands-on code rather than treating them as separate disciplines. My experience spans insurtech and product companies (GPI, Aura Vive Seguro, MIURABOX), covering everything from SEO-driven marketing sites to full product builds. AI-assisted development — Claude Code, Cursor — is a core part of how I build today, not a novelty. Currently open to new frontend / product opportunities.
 
 ---
 
